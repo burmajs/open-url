@@ -1,0 +1,17 @@
+{
+  "name": "@burmajs/open-url",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "import": "./dist/index.js",
+    "require": "./dist/index.cjs"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.6",
+    "typescript": "^5.6.3"
+  }
+}

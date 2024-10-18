@@ -1,3 +1,5 @@
+// This code are from https://github.com/rauschma/openurl
+
 import { spawnSync } from "node:child_process";
 
 let command: string = "";
